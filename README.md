@@ -9,7 +9,7 @@ This project reproduces the key results from the paper **"Dynamics of Opinion Po
 
 ## Paper Reference
 
-> **Biondi, E., Castellano, C., & de Arcangelis, L. (2021)**  
+> **Elisabetta Biondi, Chiara Boldrini, Andrea Passarella, Marco Conti (2023)**  
 > *Dynamics of opinion polarization*.  
 > IEEE Transactions on Systems, Man, and Cybernetics: Systems    
 > [arXiv link](https://arxiv.org/abs/2206.06134)  
