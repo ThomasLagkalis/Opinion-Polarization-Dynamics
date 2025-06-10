@@ -11,7 +11,7 @@ This project reproduces the key results from the paper **"Dynamics of Opinion Po
 
 > **Biondi, E., Castellano, C., & de Arcangelis, L. (2021)**  
 > *Dynamics of opinion polarization*.  
-> IEEE Transactions on Systems, Man, and Cybernetics: Systems
+> IEEE Transactions on Systems, Man, and Cybernetics: Systems.
 > [arXiv link](https://arxiv.org/abs/2206.06134)  
 
 
